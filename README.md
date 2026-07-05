@@ -1,6 +1,21 @@
 # Cybersecurity Portfolio | Home Cyber Range
 
 This repository showcases hands-on cybersecurity projects completed in a home lab environment. The projects demonstrate practical experience with security operations, SIEM deployment, threat hunting, vulnerability assessment, log analysis, and Microsoft Entra Identity and Access Management (IAM). Each project is documented with objectives, methodology, findings, and key lessons learned to reflect a structured, real-world approach to defensive security.
+
+## Core skills
+- Security Operations (SOC)
+- Threat Hunting
+- Splunk SIEM
+- Log Analysis
+- Incident Investigation
+- Linux Security
+- Vulnerability Assessment (Nmap, OpenVAS)
+- Microsoft Entra ID
+- Identity & Access Management (IAM)
+- Authentication & Access Control
+- Security Monitoring
+- Network Security
+- 
 ## Projects
 
 - **P1:** [ENVIRONMENT/LAB SETUP | MAY 6](p1-environment-lab-setup/README.md)
