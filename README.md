@@ -3,7 +3,7 @@
 This repository showcases hands-on cybersecurity projects completed in a home lab environment. The projects demonstrate practical experience with security operations, SIEM deployment, threat hunting, vulnerability assessment, log analysis, and Microsoft Entra Identity and Access Management (IAM). Each project is documented with objectives, methodology, findings, and key lessons learned to reflect a structured, real-world approach to defensive security.
 
 ## Core skills
-- Security Operations (SOC)
+- Security Operations
 - Threat Hunting
 - Splunk SIEM
 - Log Analysis
