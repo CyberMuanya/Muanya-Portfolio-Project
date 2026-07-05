@@ -15,7 +15,7 @@ This repository showcases hands-on cybersecurity projects completed in a home la
 - Authentication & Access Control
 - Security Monitoring
 - Network Security
-- 
+  
 ## Projects
 
 - **P1:** [ENVIRONMENT/LAB SETUP | MAY 6](p1-environment-lab-setup/README.md)
