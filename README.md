@@ -10,7 +10,7 @@ This repository showcases hands-on cybersecurity projects completed in a home la
 - Incident Investigation
 - Linux Security
 - Vulnerability Assessment (Nmap, OpenVAS)
-- Microsoft Entra ID
+- Microsoft Entra ID & Identity Protection
 - Identity & Access Management (IAM)
 - Authentication & Access Control
 - Security Monitoring
