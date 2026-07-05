@@ -5,7 +5,7 @@ JUNE 9 | 10:00PM
 
 > *The objective of this project is to migrate legacy identity protection settings to modern **Conditional Access** policies to enforce robust risk-based authentication and mitigation. This project replaces the deprecated "Security defaults" with granular, customizable security controls.*
 
-### Environment Prerequisites
+### 1. Environment Prerequisites
 
 - **Platform:** Microsoft Entra admin center.
 
@@ -13,7 +13,7 @@ JUNE 9 | 10:00PM
 
 > - **Status:** Security defaults were been disallowed for custom policy creation. This is due to a recent update on the MIcrosoft Entra software. Hence we had to move our user risk policy settings to “Conditional Access” pane.
 
-### 3. Configuration Workflow
+### 2. Configuration Workflow
 
 #### A. Disabling Security Defaults
 
@@ -39,7 +39,7 @@ JUNE 9 | 10:00PM
 - **Access Controls (Grant):** Require password change.
 - **Policy State:** Set to **Report-only** to validate behavior without impacting production users.
 
-### 4. Technical Notes & Troubleshooting
+### 3. Technical Notes & Troubleshooting
 
 - **Warning Resolution:** When configuring "Require password change," a UI caution may appear stating it requires "All resources." Even if the caution persists, the policy is valid if "All resources" is confirmed in the target assignments.
 - **Best Practice for this situation:** Always maintain an excluded administrative "break-glass" account to prevent accidental lockout when applying tenant-wide policies.
